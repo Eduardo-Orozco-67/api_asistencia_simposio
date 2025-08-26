@@ -1,5 +1,5 @@
 
-## ⚡ Backend - Proyecto Simposio
+#⚡ Backend - Proyecto Simposio
 
 Este es el **backend** del sistema presentado en el Simposio, desarrollado con **FastAPI**.  
 Se encarga de la lógica de negocio, validación de datos y exposición de servicios REST para el frontend (Vue.js).
@@ -9,8 +9,8 @@ Se encarga de la lógica de negocio, validación de datos y exposición de servi
 - [Uvicorn](https://www.uvicorn.org/) (ASGI server)
 - [Pydantic](https://docs.pydantic.dev/) (validación de datos)
 - [SQLAlchemy](https://www.sqlalchemy.org/) (ORM)
-- Base de datos: PostgreSQL / MySQL / SQLite (según configuración)
-
+- Base de datos: PostgreSQL
+- 
 ## 📌 Funcionalidades
 - API REST con endpoints para CRUD.
 - Validación de datos con Pydantic.
