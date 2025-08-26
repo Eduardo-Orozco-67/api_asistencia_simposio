@@ -1,5 +1,5 @@
 
-###⚡ Backend - Proyecto Simposio
+##⚡ Backend - Proyecto Simposio
 
 Este es el **backend** del sistema presentado en el Simposio, desarrollado con **FastAPI**.  
 Se encarga de la lógica de negocio, validación de datos y exposición de servicios REST para el frontend (Vue.js).
